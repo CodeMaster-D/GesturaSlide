@@ -1,3 +1,3 @@
-sebelum mulai .\venv\Scripts\activate\
+sebelum mulai .\venv\Scripts\activate  
 deactivate
 buat venv lokal & C:/Users/Asus/AppData/Local/Programs/Python/Python311/python.exe -m venv venv
